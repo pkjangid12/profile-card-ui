@@ -38,7 +38,7 @@ https://yourusername.github.io/profile-card-ui/
 
 ## 🔗 Connect with Me
 
-* GitHub: https://github.com/yourusername
+* GitHub: https://github.com/pkjangid12
 * LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
